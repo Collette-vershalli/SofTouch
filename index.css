@@ -1,0 +1,91 @@
+body{
+
+}
+#one{
+    background-color: red;
+    height: 100%;
+
+}
+.small{
+        padding: 20px 70px 0px 70px;
+}
+.large{
+    padding: 20px 20px;
+}
+.two{
+    display: flex;
+    justify-content:space-between;
+
+}
+.of{
+    width: 30%;
+    height: 30px;
+    border-radius: 8px;
+    border-color: red;
+    background-position: inherit;
+}
+button{
+height: 30px;
+border-radius: 5px;
+background-color: #fff;
+
+}
+#three{
+      display: flex;
+      justify-content: space-evenly;
+      padding: 20px;
+  }  
+  .three{
+      background-color: #fa0707;
+      color: white;
+      padding: 8px 10px 5px 30px;
+      border-radius: 5px;
+      background-position: inherit;
+  }
+  .four{
+      color: red;
+  }
+  .five{
+      color: red;
+  }
+  .six{
+      color: #fff;
+      background-color: darkslategray;
+      height: auto;
+      text-align: center;
+      margin-top: 2px;
+  }
+  .seven{
+      background-color: blue;
+      color: #fff;
+      border-color: blue;
+      margin-bottom:  10px; 
+      margin-top: 7px;
+      
+}
+.me{
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+.for{
+    width: 90%;
+    height: 25px;
+    border-radius: 5px;    
+}
+
+#ten{
+    background-color: black;
+    width: 19%; 
+    color: #fff;
+    padding-left: 10px;  
+}
+.big{
+    font-size:x-large;
+    font-family: georgia;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+
+
